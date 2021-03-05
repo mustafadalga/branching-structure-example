@@ -1,3 +1,3 @@
 ## Git / Github Branching Structure Example
 
-### https://mustafadalga.github.io/branching-structure-example/
+### https://gist.github.com/digitaljhelms/4287848
